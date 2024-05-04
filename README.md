@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SwapnilBhandarkar/Resume/blob/main/Swapnil_RESUME%20(2).pdf](https://github.com/SwapnilBhandarkar/Resume/blob/main/Swapnil_RESUME%20(2).pdf)
+- 👨‍💻 All of my projects are available at [](https://github.com/SwapnilBhandarkar/)
 
 - 📫 How to reach me **swapnilkmb10@gmail.com**
 
