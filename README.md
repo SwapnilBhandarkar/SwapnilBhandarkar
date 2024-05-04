@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bhandarkar</h1>
 <h3 align="center">I am Passionate Learner in tech</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnilbhandarkar" alt="swapnilbhandarkar" /></a> </p>
-
-
-
 - 🌱 I’m currently learning **Python and JavaScript**
 
-- 👨‍💻 All of my projects are available at [](https://github.com/SwapnilBhandarkar/)
+- 👨‍💻 All of my projects are available at [https://github.com/SwapnilBhandarkar/](https://github.com/SwapnilBhandarkar/)
 
 - 📫 How to reach me **swapnilkmb10@gmail.com**
 
-  
+- ⚡ Fun fact **Go do Some physical exercise**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/swapnil-bhandarkar-03081a271/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil bhandarkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swapnil bhandarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil bhandarkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
