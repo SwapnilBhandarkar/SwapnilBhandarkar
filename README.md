@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bhandarkar</h1>
 <h3 align="center">I am Passionate Learner in tech</h3>
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **Machine Learning and Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SwapnilBhandarkar/](https://github.com/SwapnilBhandarkar/)
 
