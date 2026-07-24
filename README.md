@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bhandarkar</h1>
 <h3 align="center">I am Passionate Learner in tech</h3>
 
-- 
-
 -  All of my projects are available at [https://github.com/SwapnilBhandarkar/](https://github.com/SwapnilBhandarkar/)
 
 -  How to reach me **swapnilkmb10@gmail.com**
